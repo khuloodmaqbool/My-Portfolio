@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Resume Generator",
+        "para": "A Next.js app for creating and downloading customized resumes with unique color options.",
+        "image": "project1.png",
+        "gitHubLink": "https://github.com/khuloodmaqbool/Resume-Generator",
+        "liveLink": "",
+        "icons": ["nextjs.png", "tailwind.png"]
+    },
+    {
+        "title": "Tasbeeh Counter",
+        "para": "An interactive JavaScript Tasbeeh counter designed for tracking and efficiently managing prayer counts.",
+        "image": "project2.png",
+        "gitHubLink": "https://github.com/khuloodmaqbool/Tasbeeh-Counter",
+        "liveLink": "",
+        "icons": ["react.png", "tailwind.png"]
+    },
+    {
+        "title": "Portfolio Website",
+        "para": "A responsive portfolio site showcasing my skills and projects, built with React and Tailwind CSS.",
+        "image": "project3.png",
+        "gitHubLink": "https://github.com/khuloodmaqbool/Static-Portfolio-Website",
+        "liveLink": "",
+        "icons": ["react.png", "tailwind.png"]
+    },
+    {
+        "title": "Todo List",
+        "para": "A responsive portfolio site showcasing my skills and projects, built with React and Tailwind CSS.",
+        "image": "project4.png",
+        "gitHubLink": "https://github.com/khuloodmaqbool/Todo_List",
+        "liveLink": "",
+        "icons": ["react.png", "tailwind.png"]
+    },
+    {
+        "title": "Digital Clock",
+        "para": "A responsive portfolio site showcasing my skills and projects, built with React and Tailwind CSS.",
+        "image": "project5.png",
+        "gitHubLink": "https://github.com/khuloodmaqbool/Digital-Clock",
+        "liveLink": "https://digital-clock-mu-eight.vercel.app/",
+        "icons": ["nextjs.png", "tailwind.png"]
+    },
+    {
+        "title": "Movie Search Website",
+        "para": "A responsive portfolio site showcasing my skills and projects, built with React and Tailwind CSS.",
+        "image": "project6.png",
+        "gitHubLink": "https://github.com/khuloodmaqbool/Movie-Search-Website",
+        "liveLink": "https://movie-search-website-six.vercel.app/",
+        "icons": ["nextjs.png", "tailwind.png"]
+    },
+    {
+        "title": "Recipe Search Website",
+        "para": "A responsive portfolio site showcasing my skills and projects, built with React and Tailwind CSS.",
+        "image": "project7.png",
+        "gitHubLink": "https://recipe-search-website-lilac.vercel.app/",
+        "liveLink": "",
+        "icons": ["nextjs.png", "tailwind.png"]
+    },
+    {
+        "title": "Word Counter",
+        "para": "A responsive portfolio site showcasing my skills and projects, built with React and Tailwind CSS.",
+        "image": "project8.png",
+        "gitHubLink": "https://github.com/khuloodmaqbool/Word_Counter",
+        "liveLink": "https://word-counter-nu-weld.vercel.app/",
+        "icons": ["nextjs.png", "tailwind.png"]
+    },
+    {
+        "title": "Random Joke Generator",
+        "para": "A responsive portfolio site showcasing my skills and projects, built with React and Tailwind CSS.",
+        "image": "project9.png",
+        "gitHubLink": "https://github.com/khuloodmaqbool/Random-Joke-Generator",
+        "liveLink": "https://random-user-generator-murex.vercel.app/",
+        "icons": ["nextjs.png", "tailwind.png"]
+    },
+    {
+        "title": "Random User Generator",
+        "para": "A responsive portfolio site showcasing my skills and projects, built with React and Tailwind CSS.",
+        "image": "project10.png",
+        "gitHubLink": "https://github.com/khuloodmaqbool/Random-User-Generator",
+        "liveLink": "https://random-joke-generator-orcin.vercel.app/",
+        "icons": ["nextjs.png", "tailwind.png"]
+    }
+]
