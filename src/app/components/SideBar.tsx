@@ -24,10 +24,9 @@ export const SideBar = () => {
     const link_style = `hover:bg-gray-700 p-2 block rounded flex items-center`;
 
     return (
-        // bg-gray-800
         <div className="h-screen w-1/5 text-white flex flex-col fixed lg:block md:block hidden z-10  bg-dull_grey_purple ">
             <div data-aos="fade-right" className="p-6">
-                <img className="w-10 float-left" src="logo.png" alt="" /> <h1 className="text-2xl font-bold ms-4">KM</h1>
+                <img className="w-10 float-left" src="logo.png" alt="logo" /> <h1 className="text-2xl font-bold ms-4">KM</h1>
             </div>
             <nav data-aos="fade-right" className="flex-1 px-4 py-2">
                 <ul>
@@ -63,7 +62,7 @@ export const SideBar = () => {
 
                     <div className="mt-8" >
 
-                        <Link href="">
+                        <Link target="_blank" href="/cv.pdf" download="cv.pdf">
                             <Button variant="outline" >
                                 Download CV
                             </Button>

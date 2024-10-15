@@ -26,10 +26,8 @@ export const HeroSection = () => {
 
                         <p className="mb-8 leading-relaxed">Welcome to my portfolio! I&#39;m a passionate front-end developer specializing in creating beautiful and functional web applications. With expertise in HTML, CSS, JavaScript, React, and Next.js, I build responsive, user-friendly websites that bring your ideas to life with clean, efficient code and a strong focus on user experience.</p>
 
-
-
                         <div className="flex justify-center">
-                            <Link href="">
+                            <Link target="_blank" href="/cv.pdf" download="cv.pdf">
                                 <Button variant="outline" >Download CV</Button></Link>
                         </div>
                     </div>

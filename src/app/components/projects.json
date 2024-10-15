@@ -4,7 +4,7 @@
         "para": "A Next.js app for creating and downloading customized resumes with unique color options.",
         "image": "project1.png",
         "gitHubLink": "https://github.com/khuloodmaqbool/Resume-Generator",
-        "liveLink": "",
+        "liveLink": "https://github.com/khuloodmaqbool/Resume-Generator",
         "icons": ["nextjs.png", "tailwind.png"]
     },
     {
@@ -12,7 +12,7 @@
         "para": "An interactive JavaScript Tasbeeh counter designed for tracking and efficiently managing prayer counts.",
         "image": "project2.png",
         "gitHubLink": "https://github.com/khuloodmaqbool/Tasbeeh-Counter",
-        "liveLink": "",
+        "liveLink": "https://github.com/khuloodmaqbool/Tasbeeh-Counter",
         "icons": ["react.png", "tailwind.png"]
     },
     {
@@ -20,7 +20,7 @@
         "para": "A responsive portfolio site showcasing my skills and projects, built with React and Tailwind CSS.",
         "image": "project3.png",
         "gitHubLink": "https://github.com/khuloodmaqbool/Static-Portfolio-Website",
-        "liveLink": "",
+        "liveLink": "https://github.com/khuloodmaqbool/Static-Portfolio-Website",
         "icons": ["react.png", "tailwind.png"]
     },
     {
@@ -28,7 +28,7 @@
         "para": "A responsive portfolio site showcasing my skills and projects, built with React and Tailwind CSS.",
         "image": "project4.png",
         "gitHubLink": "https://github.com/khuloodmaqbool/Todo_List",
-        "liveLink": "",
+        "liveLink": "https://github.com/khuloodmaqbool/Todo_List",
         "icons": ["react.png", "tailwind.png"]
     },
     {
