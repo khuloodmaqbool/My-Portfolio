@@ -51,7 +51,7 @@ const Section = () => {
 
     },
     {
-        heading: "FIGMA",
+        heading: "UI/UX",
         inpVal: 80,
         percent: "80%",
         icon: "figma.png",
