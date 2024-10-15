@@ -50,6 +50,14 @@ const Section = () => {
         rangeClass: "range-4"
 
     },
+    {
+        heading: "FIGMA",
+        inpVal: 80,
+        percent: "80%",
+        icon: "figma.png",
+        rangeClass: "range-4"
+
+    },
 
     ]
 
@@ -82,6 +90,14 @@ const Section = () => {
         percent: "60%",
         icon: "nextjs.png",
         rangeClass: "range-8"
+
+    },
+    {
+        heading: "AOS",
+        inpVal: 90,
+        percent: "90%",
+        icon: "aos.png",
+        rangeClass: "range-9"
 
     }
     ]
