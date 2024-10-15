@@ -5,7 +5,7 @@
         "image": "project1.png",
         "gitHubLink": "https://github.com/khuloodmaqbool/Resume-Generator",
         "liveLink": "https://resume-generator-jade.vercel.app/",
-        "icons": ["nextjs.png", "tailwind.png"]
+        "icons": ["nextjs.png", "tailwind.png" , "typescript.png" ]
     },
     {
         "title": "Tasbeeh Counter",
@@ -13,7 +13,7 @@
         "image": "project2.png",
         "gitHubLink": "https://github.com/khuloodmaqbool/Tasbeeh-Counter",
         "liveLink": "https://github.com/khuloodmaqbool/Tasbeeh-Counter",
-        "icons": ["react.png", "tailwind.png"]
+        "icons": ["react.png", "tailwind.png", "javascript.png" ]
     },
     {
         "title": "Portfolio Website",
@@ -21,7 +21,7 @@
         "image": "project3.png",
         "gitHubLink": "https://github.com/khuloodmaqbool/Static-Portfolio-Website",
         "liveLink": "https://github.com/khuloodmaqbool/Static-Portfolio-Website",
-        "icons": ["react.png", "tailwind.png"]
+        "icons": ["react.png", "tailwind.png" , "javascript.png"]
     },
     {
         "title": "Todo List",
@@ -29,7 +29,7 @@
         "image": "project4.png",
         "gitHubLink": "https://github.com/khuloodmaqbool/Todo_List",
         "liveLink": "https://github.com/khuloodmaqbool/Todo_List",
-        "icons": ["react.png", "tailwind.png"]
+        "icons": ["react.png", "tailwind.png" , "javascript.png"]
     },
     {
         "title": "Digital Clock",
@@ -37,7 +37,7 @@
         "image": "project5.png",
         "gitHubLink": "https://github.com/khuloodmaqbool/Digital-Clock",
         "liveLink": "https://digital-clock-mu-eight.vercel.app/",
-        "icons": ["nextjs.png", "tailwind.png"]
+        "icons": ["nextjs.png", "tailwind.png" , "typescript.png"]
     },
     {
         "title": "Movie Search Website",
@@ -45,7 +45,7 @@
         "image": "project6.png",
         "gitHubLink": "https://github.com/khuloodmaqbool/Movie-Search-Website",
         "liveLink": "https://movie-search-website-six.vercel.app/",
-        "icons": ["nextjs.png", "tailwind.png"]
+        "icons": ["nextjs.png", "tailwind.png" , "typescript.png"]
     },
     {
         "title": "Recipe Search Website",
@@ -53,7 +53,7 @@
         "image": "project7.png",
         "gitHubLink": "https://recipe-search-website-lilac.vercel.app/",
         "liveLink": "",
-        "icons": ["nextjs.png", "tailwind.png"]
+        "icons": ["nextjs.png", "tailwind.png" , "typescript.png"]
     },
     {
         "title": "Word Counter",
@@ -61,7 +61,7 @@
         "image": "project8.png",
         "gitHubLink": "https://github.com/khuloodmaqbool/Word_Counter",
         "liveLink": "https://word-counter-nu-weld.vercel.app/",
-        "icons": ["nextjs.png", "tailwind.png"]
+        "icons": ["nextjs.png", "tailwind.png" , "typescript.png"]
     },
     {
         "title": "Random Joke Generator",
@@ -69,7 +69,7 @@
         "image": "project9.png",
         "gitHubLink": "https://github.com/khuloodmaqbool/Random-Joke-Generator",
         "liveLink": "https://random-user-generator-murex.vercel.app/",
-        "icons": ["nextjs.png", "tailwind.png"]
+        "icons": ["nextjs.png", "tailwind.png" , "typescript.png"]
     },
     {
         "title": "Random User Generator",
@@ -77,6 +77,6 @@
         "image": "project10.png",
         "gitHubLink": "https://github.com/khuloodmaqbool/Random-User-Generator",
         "liveLink": "https://random-joke-generator-orcin.vercel.app/",
-        "icons": ["nextjs.png", "tailwind.png"]
+        "icons": ["nextjs.png", "tailwind.png" , "typescript.png"]
     }
 ]
