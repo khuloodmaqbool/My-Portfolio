@@ -1,19 +1,19 @@
 [
     {
+        "title": "Ecommerce Website",
+        "para": "A React and Tailwind CSS e-commerce site with dynamic product pages and responsive design.",
+        "image": "ecommerce.png",
+        "gitHubLink": "https://github.com/khuloodmaqbool/Ecommerce_Website",
+        "liveLink": "https://ecommerce-website-beta-three.vercel.app/",
+        "icons": ["react.png", "tailwind.png", "javascript.png" ]
+    },
+    {
         "title": "Resume Generator",
         "para": "A Next.js app for creating and downloading customized resumes with unique color options.",
         "image": "project1.png",
         "gitHubLink": "https://github.com/khuloodmaqbool/Resume-Generator",
         "liveLink": "https://resume-generator-jade.vercel.app/",
         "icons": ["nextjs.png", "tailwind.png" , "typescript.png" ]
-    },
-    {
-        "title": "Tasbeeh Counter",
-        "para": "An interactive JavaScript Tasbeeh counter designed for tracking and efficiently managing prayer counts.",
-        "image": "project2.png",
-        "gitHubLink": "https://github.com/khuloodmaqbool/Tasbeeh-Counter",
-        "liveLink": "https://github.com/khuloodmaqbool/Tasbeeh-Counter",
-        "icons": ["react.png", "tailwind.png", "javascript.png" ]
     },
     {
         "title": "Portfolio Website",
