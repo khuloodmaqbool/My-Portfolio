@@ -4,7 +4,6 @@ import Link from "next/link";
 import { BsCodeSlash } from "react-icons/bs";
 import { Heading } from "./Heading";
 import project from "./projects.json"
-import Image from "next/image";
 
 export const MyProjects = () => {
 
@@ -28,7 +27,7 @@ export const MyProjects = () => {
                             >
                                 <div className="rounded-lg h-64 overflow-hidden">
 
-                                    <Image width={100} height={100} alt="content" className="object-contain rounded-lg h-full w-full" src={crntele.image} />
+                                    <img alt="content" className="object-contain rounded-lg h-full w-full" src={crntele.image} />
                                     
                                 </div>
                                 <h2 className="text-xl font-medium text-white mt-5">{crntele.title}</h2>
