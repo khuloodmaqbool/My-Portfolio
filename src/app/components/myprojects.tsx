@@ -18,7 +18,7 @@ export const MyProjects = () => {
             <section className="body-font">
                 <div className="container px-5 py-24 mx-auto">
                     <Heading {...headingData} />
-                    <div className="flex flex-wrap justify-around lg:justify-around mx-4 mb-6">
+                    <div className="flex flex-wrap justify-around lg:justify-around mb-6">
                         {project.map((crntele, index) => (
                             <div
                                 data-aos="fade-up"
