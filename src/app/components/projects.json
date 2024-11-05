@@ -1,4 +1,11 @@
-[
+[ {
+    "title": "Travelling Website",
+    "para": "Just launched a sleek travel website with React and Tailwind CSS!",
+    "image": "travel1.png",
+    "gitHubLink": "https://github.com/khuloodmaqbool/Travelling-Website",
+    "liveLink": "https://travelling-website-phi.vercel.app/",
+    "icons": ["react.png", "tailwind.png", "javascript.png" ]
+},
     {
         "title": "Ecommerce Website",
         "para": "A React and Tailwind CSS e-commerce site with dynamic product pages and responsive design.",
