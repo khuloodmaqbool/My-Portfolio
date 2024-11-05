@@ -18,11 +18,11 @@ export const MyProjects = () => {
             <section className="body-font">
                 <div className="container px-5 py-24 mx-auto">
                     <Heading {...headingData} />
-                    <div className="flex flex-wrap justify-around lg:justify-start mx-auto mb-6">
+                    <div className="flex flex-wrap justify-around lg:justify-start mx-4 mb-6">
                         {project.map((crntele, index) => (
                             <div
                                 data-aos="fade-up"
-                                className="p-4 w-full md:w-88 mb-9 border border-dull_purple rounded-md project-card bg-dull_grey_purple"
+                                className="p-4 w-full md:w-88 mb-9 border border-dull_purple rounded-md project-card bg-dull_grey_purple mx-auto"
                                 key={index}
                             >
                                 <div className="rounded-lg h-64 overflow-hidden">
