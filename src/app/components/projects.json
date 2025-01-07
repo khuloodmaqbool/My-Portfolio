@@ -1,5 +1,13 @@
 [
   {
+    "title": "Frozo Land",
+    "para": "Just launched a icecream website with NextJS and Sanity.ios!",
+    "image": "frozoland.png",
+    "gitHubLink": "https://github.com/khuloodmaqbool/FrozoLand",
+    "liveLink": "https://frozo-land.vercel.app/",
+    "icons": [ "nextjs.png", "sanity.png" ,"tailwind.png", "typescript.png", "daisyui.png" ]
+  },
+  {
     "title": "Travelling Website",
     "para": "Just launched a sleek travel website with React and Tailwind CSS!",
     "image": "travel.png",
