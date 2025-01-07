@@ -76,7 +76,7 @@
     "para": "A responsive portfolio site showcasing my skills and projects, built with React and Tailwind CSS.",
     "image": "project9.png",
     "gitHubLink": "https://github.com/khuloodmaqbool/Random-Joke-Generator",
-    "liveLink": "https://random-user-generator-murex.vercel.app/",
+    "liveLink": "https://random-joke-generator-orcin.vercel.app/",
     "icons": ["nextjs.png", "tailwind.png", "typescript.png"]
   },
   {
@@ -84,7 +84,7 @@
     "para": "A responsive portfolio site showcasing my skills and projects, built with React and Tailwind CSS.",
     "image": "project10.png",
     "gitHubLink": "https://github.com/khuloodmaqbool/Random-User-Generator",
-    "liveLink": "https://random-joke-generator-orcin.vercel.app/",
+    "liveLink": "https://random-user-generator-murex.vercel.app/",
     "icons": ["nextjs.png", "tailwind.png", "typescript.png"]
   }
 ]
