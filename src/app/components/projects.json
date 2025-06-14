@@ -1,5 +1,5 @@
 [
-  {
+   {
     "title": "Frozo Land",
     "para": "Just launched a icecream website with NextJS and Sanity.ios!",
     "image": "frozoland.png",
@@ -7,7 +7,7 @@
     "liveLink": "https://frozo-land.vercel.app/",
     "icons": [ "nextjs.png", "sanity.png" ,"tailwind.png", "typescript.png", "daisyui.png" ]
   },
-  {
+   {
     "title": "Travelling Website",
     "para": "Just launched a sleek travel website with React and Tailwind CSS!",
     "image": "travel.png",
@@ -22,6 +22,14 @@
     "gitHubLink": "https://github.com/khuloodmaqbool/Ecommerce_Website",
     "liveLink": "https://ecommerce-website-beta-three.vercel.app/",
     "icons": ["react.png", "tailwind.png", "javascript.png"]
+  },
+  {
+    "title": "Plant Website Herosection",
+    "para": " Just crafted a Plant Website Hero Section using Next.js & Tailwind CSS ",
+    "image": "herosection1.jpg",
+    "gitHubLink": "https://github.com/khuloodmaqbool/Plant-Website-Herosection",
+    "liveLink": "https://plant-website-herosection.vercel.app/",
+    "icons": [ "react.png","tailwind.png", "typescript.png", "daisyui.png" ]
   },
   {
     "title": "Resume Generator",
