@@ -1,13 +1,19 @@
 [
-   {
+  {
     "title": "Frozo Land",
     "para": "Just launched a icecream website with NextJS and Sanity.ios!",
     "image": "frozoland.png",
     "gitHubLink": "https://github.com/khuloodmaqbool/FrozoLand",
     "liveLink": "https://frozo-land.vercel.app/",
-    "icons": [ "nextjs.png", "sanity.png" ,"tailwind.png", "typescript.png", "daisyui.png" ]
+    "icons": [
+      "nextjs.png",
+      "sanity.png",
+      "tailwind.png",
+      "typescript.png",
+      "daisyui.png"
+    ]
   },
-   {
+  {
     "title": "Travelling Website",
     "para": "Just launched a sleek travel website with React and Tailwind CSS!",
     "image": "travel.png",
@@ -24,14 +30,6 @@
     "icons": ["react.png", "tailwind.png", "javascript.png"]
   },
   {
-    "title": "Plant Website Herosection",
-    "para": " Just crafted a Plant Website Hero Section using Next.js & Tailwind CSS ",
-    "image": "herosection1.jpg",
-    "gitHubLink": "https://github.com/khuloodmaqbool/Plant-Website-Herosection",
-    "liveLink": "https://plant-website-herosection.vercel.app/",
-    "icons": [ "react.png","tailwind.png", "typescript.png", "daisyui.png" ]
-  },
-  {
     "title": "Resume Generator",
     "para": "A Next.js app for creating and downloading customized resumes with unique color options.",
     "image": "project1.png",
@@ -39,6 +37,42 @@
     "liveLink": "https://resume-generator-jade.vercel.app/",
     "icons": ["nextjs.png", "tailwind.png", "typescript.png"]
   },
+  {
+    "title": "Plant Website Herosection",
+    "para": " Just crafted a Plant Website Hero Section using Next.js & Tailwind CSS ",
+    "image": "herosection1.jpg",
+    "gitHubLink": "https://github.com/khuloodmaqbool/Plant-Website-Herosection",
+    "liveLink": "https://plant-website-herosection.vercel.app/",
+    "icons": ["react.png", "tailwind.png", "javascript.png"]
+  },
+
+  {
+    "title": "Donut Delight",
+    "para": " Just designed a sweet Donut Hero Section using Next.js & Tailwind CSS!",
+    "image": "herosection3.jpg",
+    "gitHubLink": "https://github.com/khuloodmaqbool/Donut-Website-Herosection",
+    "liveLink": "https://donut-website-herosection.vercel.app/",
+    "icons": ["react.png", "tailwind.png", "javascript.png"]
+  },
+
+  {
+    "title": "CreativeHero",
+    "para": " Here's a bold & engaging hero section crafted with Next.js and Tailwind CSS",
+    "image": "herosection2.jpg",
+    "gitHubLink": "https://github.com/khuloodmaqbool/Herosection-Design",
+    "liveLink": "https://herosection-design.vercel.app/",
+    "icons": ["react.png", "tailwind.png", "javascript.png"]
+  },
+
+  {
+    "title": "Team Progress Tracking Tool",
+    "para": "Just launched a new Team Progress Tracking Tool landing page",
+    "image": "tracking tool.jpg",
+    "gitHubLink": "https://github.com/khuloodmaqbool/Agency-Landing-Page",
+    "liveLink": "https://agency-landing-page-eight-theta.vercel.app/",
+    "icons": ["react.png", "tailwind.png", "javascript.png"]
+  },
+
   {
     "title": "Portfolio Website",
     "para": "A responsive portfolio site showcasing my skills and projects, built with React and Tailwind CSS.",
